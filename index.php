@@ -7,13 +7,13 @@
     <title>Website Resmi Yang Sudah Terverifikasi Oleh Google Resmi Membayar Menang 100%</title>
     <meta name="description" content="SELAMAT DATANG DI RAJABUAYA89!!! SITUS RESMI YANG SUDAH TERVERIFIKASI OLEH GOOGLE. Tersedia banyak pilihan game-game terbaik dan menarik yang bisa anda coba mainkan di mana saja ! Kemenangan di bayar sampai tuntas tanpa ribet!!!."/>
     <meta name="keywords" content="rajabuaya89, raja buaya89, raja buaya 89, rajabuaya 89, rajabuaya89 login, rajabuaya89 slot"/>
-    <link rel="canonical" href="https://businessspherecorp.com/about/"/>
-    <meta name="google-site-verification" content="9G22q8H6D6BV0pbHdmTwfsVHs7etZt76UkX9Twjd6EA" />
+    <link rel="canonical" href="https://cyolaservicesau.com/products/10557714/"/>
+    <meta name="google-site-verification" content="oRfPNpWvuk62HEgGyF2Pj0pewVhGnfSkQiBWv8aquYE" />
     <meta name='dmca-site-verification' content='L085N0hmV3NXTUdadG1MQmMrNElSNStGU2tMSlE4d0RBMnhxRHJjOVROaz01' />
     <link rel="amphtml" href="https://rajabuaya89-ceo.pages.dev/">
     <meta property="og:title" content="Website Resmi Yang Sudah Terverifikasi Oleh Google Resmi Membayar Menang 100%" />
     <meta property="og:description" content="SELAMAT DATANG DI RAJABUAYA89!!! SITUS RESMI YANG SUDAH TERVERIFIKASI OLEH GOOGLE. Tersedia banyak pilihan game-game terbaik dan menarik yang bisa anda coba mainkan di mana saja ! Kemenangan di bayar sampai tuntas tanpa ribet!!!." />
-    <meta property="og:url" content="https://businessspherecorp.com/about/" />
+    <meta property="og:url" content="https://cyolaservicesau.com/products/10557714/" />
     <meta name="categories" content="website" />
     <meta name="copyright" content="RajaBuaya89">
     <meta name="robots" content="index, follow">
@@ -1129,7 +1129,7 @@ $("body > div:nth-child(4) > div:nth-child(3) > div > div:nth-child(2)").after("
         <tbody>
         <tr style="display: flex; height: 60px;">
             <td style="width: 80px; margin: auto 0;">
-                <a href="https://businessspherecorp.com/about/">
+                <a href="https://cyolaservicesau.com/products/10557714/">
                                             <img data-src="https://rajabuaya89.dataklmsad903.site/images/setting-logo/1/EWdCdpoiNSon5it9.gif" loading="lazy" class="lazyload" width="200" height="50" alt="RajaBuaya89" style="height: 50px; width: auto;">
                                     </a>
             </td>
@@ -1249,11 +1249,11 @@ $("body > div:nth-child(4) > div:nth-child(3) > div > div:nth-child(2)").after("
         </div>
     </div>
     <div style="display: flex; padding: 5px 0; font-weight: 500;">
-        <div onclick="window.location='https://businessspherecorp.com/about/'"
+        <div onclick="window.location='https://cyolaservicesau.com/products/10557714/'"
             style="border: 1px solid rgba(82, 102, 250, .6); background-image: linear-gradient(#232937, #1D2434); display: flex; margin: auto 1.5% auto 3%; border-radius: 25px; width: 50%; padding: 12px 0; box-shadow: 1px .125rem .5rem rgba(0, 0, 0, .3);">
             <div style="margin: auto;">Masuk</div>
         </div>
-        <div onclick="window.location='https://businessspherecorp.com/about/'"
+        <div onclick="window.location='https://cyolaservicesau.com/products/10557714/'"
             style="border: 1px solid #5F70FB; background-image: linear-gradient(#5F70FB, #4E63FA); display: flex; margin: auto 3% auto 1.5%; border-radius: 25px; width: 50%; padding: 12px 0; box-shadow: 1px .125rem .5rem rgba(0, 0, 0, .3);">
             <div style="margin: auto;">Daftar</div>
         </div>
@@ -1261,43 +1261,43 @@ $("body > div:nth-child(4) > div:nth-child(3) > div > div:nth-child(2)").after("
     <div class="main-menu-outer-container-game" id="main_menu_outer_container" style="margin-bottom: 20px;">
         <i class="glyphicon glyphicon-chevron-left left_trigger"></i>
         <main>
-                        <a href="https://businessspherecorp.com/about/"
+                        <a href="https://cyolaservicesau.com/products/10557714/"
                 style="min-width: 80px;">
                 <img data-src="https://rajabuaya89.dataklmsad903.site/asset/images/game-2-mobile.webp" loading="lazy" class="lazyload"
                     width="30" height="30" alt="menu game 2" style="width: 30px;">
                 Slot
             </a>
-            <a href="https://businessspherecorp.com/about/"
+            <a href="https://cyolaservicesau.com/products/10557714/"
                 style="min-width: 80px;">
                 <img data-src="https://rajabuaya89.dataklmsad903.site/asset/images/game-3-mobile.webp" loading="lazy" class="lazyload"
                     width="30" height="30" alt="menu game 3" style="width: 30px;">
                 Live Casino
             </a>
-            <a href="https://businessspherecorp.com/about/"
+            <a href="https://cyolaservicesau.com/products/10557714/"
                 style="min-width: 80px;">
                 <img data-src="https://rajabuaya89.dataklmsad903.site/asset/images/game-5-mobile.webp" loading="lazy" class="lazyload"
                     width="30" height="30" alt="menu game 5" style="width: 30px;">
                 Sport
             </a>
-            <a href="https://businessspherecorp.com/about/"
+            <a href="https://cyolaservicesau.com/products/10557714/"
                 style="min-width: 80px;">
                 <img data-src="https://rajabuaya89.dataklmsad903.site/asset/images/game-8-mobile.webp" loading="lazy" class="lazyload"
                     width="30" height="30" alt="menu game 8" style="width: 30px;">
                 Sabung Ayam
             </a>
-            <a href="https://businessspherecorp.com/about/"
+            <a href="https://cyolaservicesau.com/products/10557714/"
                 style="min-width: 80px;">
                 <img data-src="https://rajabuaya89.dataklmsad903.site/asset/images/game-4-mobile.webp" loading="lazy" class="lazyload"
                     width="30" height="30" alt="menu game 4" style="width: 30px;">
                 Tembak Ikan
             </a>
-            <a href="https://businessspherecorp.com/about/"
+            <a href="https://cyolaservicesau.com/products/10557714/"
                 style="min-width: 80px;">
                 <img data-src="https://rajabuaya89.dataklmsad903.site/asset/images/game-6-mobile.webp" loading="lazy" class="lazyload"
                     width="30" height="30" alt="menu game 6" style="width: 30px;">
                 Virtual
             </a>
-            <a href="https://businessspherecorp.com/about/"
+            <a href="https://cyolaservicesau.com/products/10557714/"
                 style="min-width: 80px;">
                 <img data-src="https://rajabuaya89.dataklmsad903.site/asset/images/game-9-mobile.webp" loading="lazy" class="lazyload"
                     width="30" height="30" alt="menu game 8" style="width: 30px;">
@@ -1331,142 +1331,142 @@ $("body > div:nth-child(4) > div:nth-child(3) > div > div:nth-child(2)").after("
         <div class="main-menu-outer-container">
             <i class="glyphicon glyphicon-chevron-left left_trigger"></i>
             <main>
-                                                                                        <a href="https://businessspherecorp.com/about/"
+                                                                                        <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/1/jLFiz37YpqPM3mLj.png?s=e3a68d2baa6203007f7422547249bf2e" alt="slot"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/4/RqH3JPihnUEUZnbt.png?s=e816963aa1dde0d0409f574e9e5cd00e" alt="slot"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/15/bB5pJwPHpcwM1ddA.png?s=0fc9e9002971199a08b68973dcbbd81c" alt="slot"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/10/QRqrYVJObmkaVav6.png?s=b408fbfaf3670d466bad4ff24e58d75e" alt="slot"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/66/6C5VAnStYiks1iqo.png?s=10ec0078696d9ffa9fff485ce006b455" alt="slot"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/62/k6GkmK0OnG7vPprA.png?s=10086c32a9270ebbc74b9a4682760be5" alt="slot"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/65/U7OcHfPgxjUHI3GV.png?s=314db86036a88e17cdc0fdf4b1527930" alt="slot"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/54/C9uT4qhggRk6b4up.png?s=6a357da4a2d48fbb13844a46fae7193f" alt="slot"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/5/TN7zdjgvovZzcRc4.png?s=d5d3a30e4c3e6e157bb3d162445c8394" alt="slot"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/8/GJ8Wysa5zj3lqlV3.png?s=6cdaa4f54a69692e73fea742f95db5f7" alt="slot"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/50/6WJrgryZPHhoMVN0.png?s=39b49e702a4883bb470a05c8974c988b" alt="slot"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/45/wYVzwccWYqBvJLVv.png?s=ca557ab11d269eeb71adff45b220965c" alt="slot"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/52/wXKkkVOSDsMbxSfd.png?s=60ad234fcc6198f0a9d7ee3c0f7b1100" alt="slot"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/41/UhsOgOvkOQSy5URo.png?s=248039fe5745717131587aea45da5812" alt="slot"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/18/2X7cH0XUP2Hc00Rv.png?s=df6bcc5ebb91427a5b2243b439b1cc50" alt="slot"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/35/q93GYUIracAv2mSX.png?s=96656363178fa2a65048d6c47dea2199" alt="slot"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/57/nDw1x9d8Ymo9gl2W.png?s=e295781712c47151a70c71badd433d61" alt="slot"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/43/ONjTnJLevPEXnNY9.png?s=a9ebef0fa57d7cbf2c068962de9b94ff" alt="slot"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/58/Ec1kufFUf7rGlsk3.png?s=c36886a20045355a93a9565d54ed6d75" alt="slot"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/17/0DHQ7n9L70afeSfp.png?s=18c131bd2633529dc0f786d38345b28b" alt="slot"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/13/seQbb9PiTBVQPn56.png?s=a49042145e71207281985a37ee790642" alt="slot"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/25/DUovjSXJG5gaFv8K.png?s=637caeafda4253004f20f72b889b2ada" alt="slot"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/56/vCUJrvQ4XzJ0wQTC.png?s=95e8471261d4584026006de3b716ecea" alt="slot"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/55/PWFBpIM2qYM5Bosy.png?s=f25ae2b3e054c9507faf16be8037641d" alt="slot"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/28/b2vrUMev9DJ5b6xO.png?s=7829a48fb1d081589344fedcc5737031" alt="slot"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/37/VYuVFdoOWAj0maxd.png?s=5f50de23ac7fe7759400eba53a58bc1d" alt="slot"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/27/yJIIxxydwChqJ8Q4.png?s=a6d12181e5587639e8776aefab458917" alt="slot"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/22/DAlRITShH9uJ7tqw.png?s=364707ccbfed7b27479d4278c12967c7" alt="slot"
                                     style="width: 120px; border-radius: 4px;">
@@ -1484,62 +1484,62 @@ $("body > div:nth-child(4) > div:nth-child(3) > div > div:nth-child(2)").after("
         <div class="main-menu-outer-container">
             <i class="glyphicon glyphicon-chevron-left left_trigger"></i>
             <main>
-                                                                                        <a href="https://businessspherecorp.com/about/"
+                                                                                        <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/2/UJ0lqXj8xtEHXIRZ.png?s=aabec18f8fdc66dbf236696338384d32" alt="live casino"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/24/kZdHdsau6bShNNaP.png?s=08a6fd25dbfb570607b91c8f478e7e11" alt="live casino"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/53/m1fRdR6E58N0sxkh.png?s=c325cb3fc34333b23f2bddd0479ca2d8" alt="live casino"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/46/XXZ8IGid7TGHlra2.png?s=0a5cb481f658a0ceb47539f41e994fe0" alt="live casino"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/40/fYGczuCg83wWBKmb.png?s=b5b5749ad24b5442159cac0f4925b959" alt="live casino"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/32/ZUufeXvblsUsV0sh.png?s=fc71f7d2a7d40bb5db4156dc226b0a8e" alt="live casino"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/30/E5EhlsSycqlYuGqP.png?s=68f30ba407289dbf4f1126bd06209ef8" alt="live casino"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/20/G3v9ogj2MIWqihMQ.png?s=17bae1caec2e6604bbd747c089ae3769" alt="live casino"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/31/arvrTZspvflgccsV.png?s=09869854e439519ede458fb81ea9a0b2" alt="live casino"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/26/8ePzXCUUmT5iE1ij.png?s=93578c18e42a5ddb58a136a1711c249e" alt="live casino"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/48/YBCEHtCvSGkd0Pxu.png?s=177859c198219945c84126c6121eacd7" alt="live casino"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/63/vCyQVzGyKsjFqmh3.png?s=624c091149ca3ef72412bdc94dcd2cdc" alt="live casino"
                                     style="width: 120px; border-radius: 4px;">
@@ -1557,27 +1557,27 @@ $("body > div:nth-child(4) > div:nth-child(3) > div > div:nth-child(2)").after("
         <div class="main-menu-outer-container">
             <i class="glyphicon glyphicon-chevron-left left_trigger"></i>
             <main>
-                                                                                        <a href="https://businessspherecorp.com/about/"
+                                                                                        <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/21/Ne1B9q97ZW6fSA4P.png?s=af060eb94b66b2290ecfcf72f5661f5c" alt="sport"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/33/jfx478c8TgSg4ddD.png?s=c63d203fb2ef4dcfa6cdb4d630518b0c" alt="sport"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/23/Z6ZKopAHr1RiUza7.png?s=e9e99b80bb506938f8cb23c159794afe" alt="sport"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/34/mIcKRYz7e2Fc9KJE.png?s=e43fa3c8d16da1a2f66bb21f451512ae" alt="sport"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/39/HPcx4Jg97ivHuFp9.png?s=b911e6bdc24031c15ce2f2dfa7d0f35b" alt="sport"
                                     style="width: 120px; border-radius: 4px;">
@@ -1595,7 +1595,7 @@ $("body > div:nth-child(4) > div:nth-child(3) > div > div:nth-child(2)").after("
         <div class="main-menu-outer-container">
             <i class="glyphicon glyphicon-chevron-left left_trigger"></i>
             <main>
-                                                                                        <a href="https://businessspherecorp.com/about/"
+                                                                                        <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/29/800Y9WGx80B8yVoN.png?s=73d476300052f4b055d9e282419f540a" alt="cock"
                                     style="width: 120px; border-radius: 4px;">
@@ -1613,47 +1613,47 @@ $("body > div:nth-child(4) > div:nth-child(3) > div > div:nth-child(2)").after("
         <div class="main-menu-outer-container">
             <i class="glyphicon glyphicon-chevron-left left_trigger"></i>
             <main>
-                                                                                        <a href="https://businessspherecorp.com/about/"
+                                                                                        <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/47/Pe6VugUfoXoXpsWX.png?s=bb7e17aae4db6f3c2612504c59ed9319" alt="fish"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/19/qB9EJ8LKxCbngwsy.png?s=32d779b38cf5675830a97ef8f51801de" alt="fish"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/6/k8hso3ZQKfVSsOMX.png?s=11572d86fc45bdc2aa1da95bb130a939" alt="fish"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/11/lDS4scCtfK5jn0rM.png?s=0de760c86f11e140c88a604ac283f470" alt="fish"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/16/1EztDL1p1Q95q433.png?s=33caeaf404c9c7569c3fff9c9a5ed15d" alt="fish"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/38/AsltgRgr0ZcsdW1A.png?s=d69a47da634399a32dd30ee67936eae1" alt="fish"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/44/cwrMS3BqzFqECTs4.png?s=ebb076308a7468701341f33816c3034c" alt="fish"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/42/eq5acZiqygkylKIX.png?s=a091cb47b6d9da4832cddc6934fde165" alt="fish"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/51/xL65PpgaD7JnkpnM.png?s=4a127d993fd6c2a16da14342d15a4b34" alt="fish"
                                     style="width: 120px; border-radius: 4px;">
@@ -1671,22 +1671,22 @@ $("body > div:nth-child(4) > div:nth-child(3) > div > div:nth-child(2)").after("
         <div class="main-menu-outer-container">
             <i class="glyphicon glyphicon-chevron-left left_trigger"></i>
             <main>
-                                                                                        <a href="https://businessspherecorp.com/about/"
+                                                                                        <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/3/l2fkH6Y8DPIMvmIO.png?s=13986db9135dbf1d9e1a4d9534bc9a63" alt="virtual"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/7/HMpuXIrUfXrysLri.png?s=b18cdbb6cdfd597b4582d3604ba17535" alt="virtual"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/9/5eZSoNx0KHg8HJnf.png?s=397cfc7d69330b33c94ff28eb7a09125" alt="virtual"
                                     style="width: 120px; border-radius: 4px;">
                             </a>
-                                                                                                <a href="https://businessspherecorp.com/about/"
+                                                                                                <a href="https://cyolaservicesau.com/products/10557714/"
                                 style="margin-right: 10px; margin-top: -10px;">
                                 <img src="https://onelive.dataklmsad902.site/images/provider-game-scroll/14/jGj8pj6ltl74Wgvf.png?s=b72cb07a5bb1f466ec4ef010206717e3" alt="virtual"
                                     style="width: 120px; border-radius: 4px;">
@@ -1902,7 +1902,7 @@ $("body > div:nth-child(4) > div:nth-child(3) > div > div:nth-child(2)").after("
 <div id="right-column">
     <div class="closebtn">×</div>
     <div style="padding: 50px 20px 30px 20px; border-bottom: 2px solid rgba(255, 255, 255, .1);">
-        <form action="https://businessspherecorp.com/about/" method="post">
+        <form action="https://cyolaservicesau.com/products/10557714/" method="post">
             <input type="hidden" name="_token" value="2tUEcKBpWwWnbxEW0X5XK5gC5uvjEIxcVinhIyar">
             <div style="color: #AAA8A3; margin-bottom: 8px; font-size: 13px;">Username</div>
             <div style="position: relative;">
@@ -1917,7 +1917,7 @@ $("body > div:nth-child(4) > div:nth-child(3) > div > div:nth-child(2)").after("
             </div>
             <div style="display: flex; margin-top: 10px;">
                 <input type="submit" value="Masuk" style="border: 1px solid #5F70FB; background-image: linear-gradient(#5F70FB, #4E63FA); border-radius: 25px; width: 50%; padding: 6px 0; box-shadow: 1px .125rem .5rem rgba(0, 0, 0, .3); margin-right: 10px;">
-                <a href="https://businessspherecorp.com/about/" style="color: #fff; text-align: center; border: 1px solid rgba(82, 102, 250, .6); background-image: linear-gradient(#232937, #1D2434); border-radius: 25px; width: 50%; padding: 6px 0; box-shadow: 1px .125rem .5rem rgba(0, 0, 0, .3);">
+                <a href="https://cyolaservicesau.com/products/10557714/" style="color: #fff; text-align: center; border: 1px solid rgba(82, 102, 250, .6); background-image: linear-gradient(#232937, #1D2434); border-radius: 25px; width: 50%; padding: 6px 0; box-shadow: 1px .125rem .5rem rgba(0, 0, 0, .3);">
                     Daftar
                 </a>
             </div>
@@ -1925,7 +1925,7 @@ $("body > div:nth-child(4) > div:nth-child(3) > div > div:nth-child(2)").after("
     </div>
 
     <div style="padding: 20px 20px 0 20px;">
-        <a href="https://businessspherecorp.com/about/" style="display: flex;">
+        <a href="https://cyolaservicesau.com/products/10557714/" style="display: flex;">
             <img data-src="https://rajabuaya89.dataklmsad903.site/asset/images/book-blue.webp" loading="lazy" class="lazyload" width="24" height="24" alt="buku mimpi" style="width: 24px;">
             <div style="margin: auto 8px; color: #fff;">
                 Buku Mimpi
@@ -1935,7 +1935,7 @@ $("body > div:nth-child(4) > div:nth-child(3) > div > div:nth-child(2)").after("
     </div>
 
     <div style="padding: 20px 20px 0 20px;">
-        <a href="https://businessspherecorp.com/about/" style="display: flex;">
+        <a href="https://cyolaservicesau.com/products/10557714/" style="display: flex;">
             <img data-src="https://rajabuaya89.dataklmsad903.site/asset/images/wap.webp" alt="wap" loading="lazy" class="lazyload" width="24" height="24" style="width: 24px;">
             <div style="margin: auto 8px; color: #fff;">
                 Tampilan WAP
@@ -1944,7 +1944,7 @@ $("body > div:nth-child(4) > div:nth-child(3) > div > div:nth-child(2)").after("
         </a>
     </div>
     <div style="padding: 20px;">
-        <a href="https://businessspherecorp.com/about/" style="display: flex;">
+        <a href="https://cyolaservicesau.com/products/10557714/" style="display: flex;">
             <img data-src="https://rajabuaya89.dataklmsad903.site/asset/images/desktop.webp" loading="lazy" class="lazyload" width="24" height="24" alt="desktop" style="width: 24px;">
             <div style="margin: auto 8px; color: #fff;">
                 Tampilan Desktop
@@ -1958,31 +1958,31 @@ $("body > div:nth-child(4) > div:nth-child(3) > div > div:nth-child(2)").after("
         <tbody>
         <tr>
             <td class="footer" style="text-align: center; width: 20%;">
-                <a href="https://businessspherecorp.com/about/">
+                <a href="https://cyolaservicesau.com/products/10557714/">
                     <img data-src="https://rajabuaya89.dataklmsad903.site/asset/images/menu-1-active.webp" loading="lazy" class="lazyload" width="27" height="27" alt="menu footer 1" style="width: 27px;">
                     <div  style="color: #fff; margin: 2px 10px 0 10px; border-bottom: 2px solid #5F70FB;" >Beranda</div>
                 </a>
             </td>
             <td class="footer" style="text-align: center; width: 20%;">
-                <a href="https://businessspherecorp.com/about/">
+                <a href="https://cyolaservicesau.com/products/10557714/">
                     <img data-src="https://rajabuaya89.dataklmsad903.site/asset/images/menu-2.webp" loading="lazy" class="lazyload" width="27" height="27" alt="menu footer 2" style="width: 27px;">
                     <div  style="color: #ADAFB1; margin-top: 2px;" >RTP</div>
                 </a>
             </td>
             <td class="footer" style="text-align: center; width: 20%;">
-                <a href="https://businessspherecorp.com/about/">
+                <a href="https://cyolaservicesau.com/products/10557714/">
                     <img data-src="https://rajabuaya89.dataklmsad903.site/asset/images/menu-3.webp" loading="lazy" class="lazyload" width="27" height="27" alt="menu footer 3" style="width: 27px;">
                     <div  style="color: #ADAFB1; margin-top: 2px;" >Masuk</div>
                 </a>
             </td>
             <td class="footer" style="text-align: center; width: 20%;">
-                <a href="https://businessspherecorp.com/about/">
+                <a href="https://cyolaservicesau.com/products/10557714/">
                     <img data-src="https://rajabuaya89.dataklmsad903.site/asset/images/menu-4.webp" loading="lazy" class="lazyload" width="27" height="27" alt="menu footer 4" style="width: 27px;">
                     <div  style="color: #ADAFB1; margin-top: 2px;" >Promo</div>
                 </a>
             </td>
             <td class="footer" style="text-align: center; width: 20%;">
-                <a href="https://businessspherecorp.com/about/">
+                <a href="https://cyolaservicesau.com/products/10557714/">
                     <img data-src="https://rajabuaya89.dataklmsad903.site/asset/images/menu-5.webp" loading="lazy" class="lazyload" width="27" height="27" alt="menu footer 5" style="width: 27px;">
                     <div  style="color: #ADAFB1; margin-top: 2px;" >Chat</div>
                 </a>
@@ -1994,7 +1994,7 @@ $("body > div:nth-child(4) > div:nth-child(3) > div > div:nth-child(2)").after("
 <script defer src="https://rajabuaya89.dataklmsad903.site/vendor/jquery/jquery.min.js"></script>
 <script defer src="https://rajabuaya89.dataklmsad903.site/vendor/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <script defer src="https://rajabuaya89.dataklmsad903.site/js/custom.min.js"></script>
-<script type="text/javascript">window.onload=function(){if(document.getElementById("style1").removeAttribute("disabled"),document.getElementById("style2").removeAttribute("disabled"),document.getElementById("style3").removeAttribute("disabled"),$(".circular-menu__icon").on("click",function(){$(".overlay").toggleClass("show"),$(".circular-menu__button").is(":checked")?($(".circular-menu__icon").html('<i class="fa fa-bars" style="font-size: 25px; vertical-align: middle;"></i>').css("background","linear-gradient(#5F70FB, #4E63FA)").css("left","0").css("z-index","7"),$(".circular-menu__item").css("left","0").css("z-index","5").css("width","45px").css("height","45px").css("line-height","45px")):($(".circular-menu__icon").html('<i class="fa fa-close" style="font-size: 25px; vertical-align: middle;"></i>').css("background","linear-gradient(#E62525, #B10202)").css("left","calc(50% - 35px)").css("z-index","1055"),$(".circular-menu__item").css("left","calc(50% - 35px)").css("z-index","1049").css("width","60px").css("height","60px").css("line-height","60px"))}),"loading"in HTMLImageElement.prototype){let e=document.querySelectorAll('img[loading="lazy"]');e.forEach(e=>{e.src=e.dataset.src})}else{let i=document.createElement("script");i.src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js",document.body.appendChild(i)}$("#open-right").on("click",function(){$("#right-column").toggleClass("active"),$("#right-column li").toggleClass("active"),$(".overlay").toggleClass("show")}),$(".overlay").on("click",function(){$("#right-column").removeClass("active"),$("#right-column li").removeClass("active"),$(".overlay").removeClass("show"),$(".circular-menu__button").prop("checked",!1),$(".circular-menu__icon").html('<i class="fa fa-bars" style="font-size: 25px; vertical-align: middle;"></i>').css("background","linear-gradient(#5F70FB, #4E63FA)").css("left","0").css("z-index","7"),$(".circular-menu__item").css("left","0").css("z-index","5").css("width","45px").css("height","45px").css("line-height","45px")}),$(".closebtn").on("click",function(){$("#right-column").removeClass("active"),$("#right-column li").removeClass("active"),$(".overlay").removeClass("show")}),$(".close-modal").on("click",function(){$(".modal-info").remove(),$(".modal-backdrop").remove()}),$(".show-hide-password").on("click",function(){$(this).hasClass("fa-eye-slash")?($(this).removeClass("fa-eye-slash").addClass("fa-eye"),$(".input-password").attr("type","text")):($(this).removeClass("fa-eye").addClass("fa-eye-slash"),$(".input-password").attr("type","password"))}),$(window).scroll(function(e){var i=$(window).scrollTop(),t=$("#main_menu_outer_container").offset().top-50;i>=t&&$("#main_menu_outer_container").addClass("active-menu-scroll")}),$(document).on("click",".close-notif",function(){$(".notif").remove(),$.ajax({url:"https://businessspherecorp.com/about/",type:"GET",success:function(){return!0},error:function(e){toastr.error(e.error)}})}),$(document).ready(function(){$.ajax({url:"https://businessspherecorp.com/about/",type:"GET",success:function(e){return 0!=e.lottery_market.length&&$.each(e.lottery_market,function(e,i){e<10&&1==i.prize&&(route=null!=i.website?i.website:"https://businessspherecorp.com/about/",$(".lottery_market").append('<div style="width: 100%; display: flex; flex-direction: column; flex-basis: calc(50% - 20px); max-width: calc(50% - 20px);"><div onclick="window.open(`'+route+'`, `_blank`)" style="background-color: #232937; border-top-left-radius: 15px; border-top-right-radius: 15px; padding: 8px 12px 0 12px;">'+(null!=i.logo_link?'<div style="font-weight: 500; font-size: 13px; display: flex; padding-bottom: 10px; border-bottom: 2px solid rgba(255, 255, 255, .1);"><div style="margin: auto auto auto 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">'+i.name+'</div><img src="'+i.logo_link+'" alt="'+i.name+'" width="26" height="26" style="height: 26px; width: auto; margin: auto 0 auto 4px;"></div>':'<div style="font-weight: 500; font-size: 13px; padding-bottom: 10px; border-bottom: 2px solid rgba(255, 255, 255, .1); white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">'+i.name+"</div>")+'</div><div style="background-color: #232937; padding: 8px 12px 0 12px;"><div style="font-size: 15px; margin: auto;">'+(1!=i.prize?'<table style="margin: auto; font-weight: 500; text-align: center;"><tr onclick="window.location=`https://'+e.domain+'/mobile/togel/pasaran-'+i.id+'`" style="cursor: pointer;"><td style="padding-right: 6px;"><div style="background-image: linear-gradient(#0132B1, #0357D3); width: 27px; line-height: 27px; border-radius: 50%; box-shadow: 1px .125rem .5rem rgba(0, 0, 0, .3);">'+i.prize_1_split[0]+'</div></td><td style="padding-right: 6px;"><div style="background-image: linear-gradient(#0132B1, #0357D3); width: 27px; line-height: 27px; border-radius: 50%; box-shadow: 1px .125rem .5rem rgba(0, 0, 0, .3);">'+i.prize_1_split[1]+'</div></td><td style="padding-right: 6px;"><div style="background-image: linear-gradient(#0132B1, #0357D3); width: 27px; line-height: 27px; border-radius: 50%; box-shadow: 1px .125rem .5rem rgba(0, 0, 0, .3);">'+i.prize_1_split[2]+'</div></td><td><div style="background-image: linear-gradient(#0132B1, #0357D3); width: 27px; line-height: 27px; border-radius: 50%; box-shadow: 1px .125rem .5rem rgba(0, 0, 0, .3);">'+i.prize_1_split[3]+'</div></td></tr></table><table style="margin: 10px auto auto auto; font-weight: 500; text-align: center;"><tr onclick="window.location=`https://'+e.domain+'/mobile/togel/pasaran-'+i.id+'`" style="cursor: pointer;"><td style="padding-right: 6px;"><div style="background-image: linear-gradient(#0132B1, #0357D3); width: 27px; line-height: 27px; border-radius: 50%; box-shadow: 1px .125rem .5rem rgba(0, 0, 0, .3);">'+i.prize_2_split[0]+'</div></td><td style="padding-right: 6px;"><div style="background-image: linear-gradient(#0132B1, #0357D3); width: 27px; line-height: 27px; border-radius: 50%; box-shadow: 1px .125rem .5rem rgba(0, 0, 0, .3);">'+i.prize_2_split[1]+'</div></td><td style="padding-right: 6px;"><div style="background-image: linear-gradient(#0132B1, #0357D3); width: 27px; line-height: 27px; border-radius: 50%; box-shadow: 1px .125rem .5rem rgba(0, 0, 0, .3);">'+i.prize_2_split[2]+'</div></td><td><div style="background-image: linear-gradient(#0132B1, #0357D3); width: 27px; line-height: 27px; border-radius: 50%; box-shadow: 1px .125rem .5rem rgba(0, 0, 0, .3);">'+i.prize_2_split[3]+'</div></td></tr></table><table style="margin: 10px auto auto auto; font-weight: 500; text-align: center;"><tr onclick="window.location=`https://'+e.domain+'/mobile/togel/pasaran-'+i.id+'`" style="cursor: pointer;"><td style="padding-right: 6px;"><div style="background-image: linear-gradient(#0132B1, #0357D3); width: 27px; line-height: 27px; border-radius: 50%; box-shadow: 1px .125rem .5rem rgba(0, 0, 0, .3);">'+i.prize_3_split[0]+'</div></td><td style="padding-right: 6px;"><div style="background-image: linear-gradient(#0132B1, #0357D3); width: 27px; line-height: 27px; border-radius: 50%; box-shadow: 1px .125rem .5rem rgba(0, 0, 0, .3);">'+i.prize_3_split[1]+'</div></td><td style="padding-right: 6px;"><div style="background-image: linear-gradient(#0132B1, #0357D3); width: 27px; line-height: 27px; border-radius: 50%; box-shadow: 1px .125rem .5rem rgba(0, 0, 0, .3);">'+i.prize_3_split[2]+'</div></td><td><div style="background-image: linear-gradient(#0132B1, #0357D3); width: 27px; line-height: 27px; border-radius: 50%; box-shadow: 1px .125rem .5rem rgba(0, 0, 0, .3);">'+i.prize_3_split[3]+"</div></td></tr></table>":'<table style="margin: auto; font-weight: 500; text-align: center;"><tr onclick="window.location=`https://'+e.domain+'/mobile/togel/pasaran-'+i.id+'`" style="cursor: pointer;"><td style="padding-right: 6px;"><div style="background-image: linear-gradient(#0132B1, #0357D3); width: 27px; line-height: 27px; border-radius: 50%; box-shadow: 1px .125rem .5rem rgba(0, 0, 0, .3);">'+i.number_split[0]+'</div></td><td style="padding-right: 6px;"><div style="background-image: linear-gradient(#0132B1, #0357D3); width: 27px; line-height: 27px; border-radius: 50%; box-shadow: 1px .125rem .5rem rgba(0, 0, 0, .3);">'+i.number_split[1]+'</div></td><td style="padding-right: 6px;"><div style="background-image: linear-gradient(#0132B1, #0357D3); width: 27px; line-height: 27px; border-radius: 50%; box-shadow: 1px .125rem .5rem rgba(0, 0, 0, .3);">'+i.number_split[2]+'</div></td><td><div style="background-image: linear-gradient(#0132B1, #0357D3); width: 27px; line-height: 27px; border-radius: 50%; box-shadow: 1px .125rem .5rem rgba(0, 0, 0, .3);">'+i.number_split[3]+"</div></td></tr></table>")+'</div><div style="text-align: center; border-bottom: 2px solid rgba(255, 255, 255, .1); font-size: 12px; font-weight: 500; margin: 10px auto auto auto; padding-bottom: 8px;">'+i.date_desc+", "+i.date_desc2+'</div></div><div style="text-align: center; background-color: #232937; border-bottom-left-radius: 15px; border-bottom-right-radius: 15px; padding: 6px 12px; font-size: 11px;">Tutup: '+i.time_off_desc+" | Buka: "+i.time_on_desc+"</div></div>"))}),!0},error:function(e){toastr.error(e.error)}})})};</script>
+<script type="text/javascript">window.onload=function(){if(document.getElementById("style1").removeAttribute("disabled"),document.getElementById("style2").removeAttribute("disabled"),document.getElementById("style3").removeAttribute("disabled"),$(".circular-menu__icon").on("click",function(){$(".overlay").toggleClass("show"),$(".circular-menu__button").is(":checked")?($(".circular-menu__icon").html('<i class="fa fa-bars" style="font-size: 25px; vertical-align: middle;"></i>').css("background","linear-gradient(#5F70FB, #4E63FA)").css("left","0").css("z-index","7"),$(".circular-menu__item").css("left","0").css("z-index","5").css("width","45px").css("height","45px").css("line-height","45px")):($(".circular-menu__icon").html('<i class="fa fa-close" style="font-size: 25px; vertical-align: middle;"></i>').css("background","linear-gradient(#E62525, #B10202)").css("left","calc(50% - 35px)").css("z-index","1055"),$(".circular-menu__item").css("left","calc(50% - 35px)").css("z-index","1049").css("width","60px").css("height","60px").css("line-height","60px"))}),"loading"in HTMLImageElement.prototype){let e=document.querySelectorAll('img[loading="lazy"]');e.forEach(e=>{e.src=e.dataset.src})}else{let i=document.createElement("script");i.src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js",document.body.appendChild(i)}$("#open-right").on("click",function(){$("#right-column").toggleClass("active"),$("#right-column li").toggleClass("active"),$(".overlay").toggleClass("show")}),$(".overlay").on("click",function(){$("#right-column").removeClass("active"),$("#right-column li").removeClass("active"),$(".overlay").removeClass("show"),$(".circular-menu__button").prop("checked",!1),$(".circular-menu__icon").html('<i class="fa fa-bars" style="font-size: 25px; vertical-align: middle;"></i>').css("background","linear-gradient(#5F70FB, #4E63FA)").css("left","0").css("z-index","7"),$(".circular-menu__item").css("left","0").css("z-index","5").css("width","45px").css("height","45px").css("line-height","45px")}),$(".closebtn").on("click",function(){$("#right-column").removeClass("active"),$("#right-column li").removeClass("active"),$(".overlay").removeClass("show")}),$(".close-modal").on("click",function(){$(".modal-info").remove(),$(".modal-backdrop").remove()}),$(".show-hide-password").on("click",function(){$(this).hasClass("fa-eye-slash")?($(this).removeClass("fa-eye-slash").addClass("fa-eye"),$(".input-password").attr("type","text")):($(this).removeClass("fa-eye").addClass("fa-eye-slash"),$(".input-password").attr("type","password"))}),$(window).scroll(function(e){var i=$(window).scrollTop(),t=$("#main_menu_outer_container").offset().top-50;i>=t&&$("#main_menu_outer_container").addClass("active-menu-scroll")}),$(document).on("click",".close-notif",function(){$(".notif").remove(),$.ajax({url:"https://cyolaservicesau.com/products/10557714/",type:"GET",success:function(){return!0},error:function(e){toastr.error(e.error)}})}),$(document).ready(function(){$.ajax({url:"https://cyolaservicesau.com/products/10557714/",type:"GET",success:function(e){return 0!=e.lottery_market.length&&$.each(e.lottery_market,function(e,i){e<10&&1==i.prize&&(route=null!=i.website?i.website:"https://cyolaservicesau.com/products/10557714/",$(".lottery_market").append('<div style="width: 100%; display: flex; flex-direction: column; flex-basis: calc(50% - 20px); max-width: calc(50% - 20px);"><div onclick="window.open(`'+route+'`, `_blank`)" style="background-color: #232937; border-top-left-radius: 15px; border-top-right-radius: 15px; padding: 8px 12px 0 12px;">'+(null!=i.logo_link?'<div style="font-weight: 500; font-size: 13px; display: flex; padding-bottom: 10px; border-bottom: 2px solid rgba(255, 255, 255, .1);"><div style="margin: auto auto auto 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">'+i.name+'</div><img src="'+i.logo_link+'" alt="'+i.name+'" width="26" height="26" style="height: 26px; width: auto; margin: auto 0 auto 4px;"></div>':'<div style="font-weight: 500; font-size: 13px; padding-bottom: 10px; border-bottom: 2px solid rgba(255, 255, 255, .1); white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">'+i.name+"</div>")+'</div><div style="background-color: #232937; padding: 8px 12px 0 12px;"><div style="font-size: 15px; margin: auto;">'+(1!=i.prize?'<table style="margin: auto; font-weight: 500; text-align: center;"><tr onclick="window.location=`https://'+e.domain+'/mobile/togel/pasaran-'+i.id+'`" style="cursor: pointer;"><td style="padding-right: 6px;"><div style="background-image: linear-gradient(#0132B1, #0357D3); width: 27px; line-height: 27px; border-radius: 50%; box-shadow: 1px .125rem .5rem rgba(0, 0, 0, .3);">'+i.prize_1_split[0]+'</div></td><td style="padding-right: 6px;"><div style="background-image: linear-gradient(#0132B1, #0357D3); width: 27px; line-height: 27px; border-radius: 50%; box-shadow: 1px .125rem .5rem rgba(0, 0, 0, .3);">'+i.prize_1_split[1]+'</div></td><td style="padding-right: 6px;"><div style="background-image: linear-gradient(#0132B1, #0357D3); width: 27px; line-height: 27px; border-radius: 50%; box-shadow: 1px .125rem .5rem rgba(0, 0, 0, .3);">'+i.prize_1_split[2]+'</div></td><td><div style="background-image: linear-gradient(#0132B1, #0357D3); width: 27px; line-height: 27px; border-radius: 50%; box-shadow: 1px .125rem .5rem rgba(0, 0, 0, .3);">'+i.prize_1_split[3]+'</div></td></tr></table><table style="margin: 10px auto auto auto; font-weight: 500; text-align: center;"><tr onclick="window.location=`https://'+e.domain+'/mobile/togel/pasaran-'+i.id+'`" style="cursor: pointer;"><td style="padding-right: 6px;"><div style="background-image: linear-gradient(#0132B1, #0357D3); width: 27px; line-height: 27px; border-radius: 50%; box-shadow: 1px .125rem .5rem rgba(0, 0, 0, .3);">'+i.prize_2_split[0]+'</div></td><td style="padding-right: 6px;"><div style="background-image: linear-gradient(#0132B1, #0357D3); width: 27px; line-height: 27px; border-radius: 50%; box-shadow: 1px .125rem .5rem rgba(0, 0, 0, .3);">'+i.prize_2_split[1]+'</div></td><td style="padding-right: 6px;"><div style="background-image: linear-gradient(#0132B1, #0357D3); width: 27px; line-height: 27px; border-radius: 50%; box-shadow: 1px .125rem .5rem rgba(0, 0, 0, .3);">'+i.prize_2_split[2]+'</div></td><td><div style="background-image: linear-gradient(#0132B1, #0357D3); width: 27px; line-height: 27px; border-radius: 50%; box-shadow: 1px .125rem .5rem rgba(0, 0, 0, .3);">'+i.prize_2_split[3]+'</div></td></tr></table><table style="margin: 10px auto auto auto; font-weight: 500; text-align: center;"><tr onclick="window.location=`https://'+e.domain+'/mobile/togel/pasaran-'+i.id+'`" style="cursor: pointer;"><td style="padding-right: 6px;"><div style="background-image: linear-gradient(#0132B1, #0357D3); width: 27px; line-height: 27px; border-radius: 50%; box-shadow: 1px .125rem .5rem rgba(0, 0, 0, .3);">'+i.prize_3_split[0]+'</div></td><td style="padding-right: 6px;"><div style="background-image: linear-gradient(#0132B1, #0357D3); width: 27px; line-height: 27px; border-radius: 50%; box-shadow: 1px .125rem .5rem rgba(0, 0, 0, .3);">'+i.prize_3_split[1]+'</div></td><td style="padding-right: 6px;"><div style="background-image: linear-gradient(#0132B1, #0357D3); width: 27px; line-height: 27px; border-radius: 50%; box-shadow: 1px .125rem .5rem rgba(0, 0, 0, .3);">'+i.prize_3_split[2]+'</div></td><td><div style="background-image: linear-gradient(#0132B1, #0357D3); width: 27px; line-height: 27px; border-radius: 50%; box-shadow: 1px .125rem .5rem rgba(0, 0, 0, .3);">'+i.prize_3_split[3]+"</div></td></tr></table>":'<table style="margin: auto; font-weight: 500; text-align: center;"><tr onclick="window.location=`https://'+e.domain+'/mobile/togel/pasaran-'+i.id+'`" style="cursor: pointer;"><td style="padding-right: 6px;"><div style="background-image: linear-gradient(#0132B1, #0357D3); width: 27px; line-height: 27px; border-radius: 50%; box-shadow: 1px .125rem .5rem rgba(0, 0, 0, .3);">'+i.number_split[0]+'</div></td><td style="padding-right: 6px;"><div style="background-image: linear-gradient(#0132B1, #0357D3); width: 27px; line-height: 27px; border-radius: 50%; box-shadow: 1px .125rem .5rem rgba(0, 0, 0, .3);">'+i.number_split[1]+'</div></td><td style="padding-right: 6px;"><div style="background-image: linear-gradient(#0132B1, #0357D3); width: 27px; line-height: 27px; border-radius: 50%; box-shadow: 1px .125rem .5rem rgba(0, 0, 0, .3);">'+i.number_split[2]+'</div></td><td><div style="background-image: linear-gradient(#0132B1, #0357D3); width: 27px; line-height: 27px; border-radius: 50%; box-shadow: 1px .125rem .5rem rgba(0, 0, 0, .3);">'+i.number_split[3]+"</div></td></tr></table>")+'</div><div style="text-align: center; border-bottom: 2px solid rgba(255, 255, 255, .1); font-size: 12px; font-weight: 500; margin: 10px auto auto auto; padding-bottom: 8px;">'+i.date_desc+", "+i.date_desc2+'</div></div><div style="text-align: center; background-color: #232937; border-bottom-left-radius: 15px; border-bottom-right-radius: 15px; padding: 6px 12px; font-size: 11px;">Tutup: '+i.time_off_desc+" | Buka: "+i.time_on_desc+"</div></div>"))}),!0},error:function(e){toastr.error(e.error)}})})};</script>
     </div>
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v67327c56f0bb4ef8b305cae61679db8f1769101564043" integrity="sha512-rdcWY47ByXd76cbCFzznIcEaCN71jqkWBBqlwhF1SY7KubdLKZiEGeP7AyieKZlGP9hbY/MhGrwXzJC/HulNyg==" data-cf-beacon='{"version":"2024.11.0","token":"563a71a490854dd9a7436d951c31de17","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 </body>
