@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cachchoitienlen.shop/sitemap.xml
+Sitemap: https://cachchoilieng.shop/sitemap.xml
