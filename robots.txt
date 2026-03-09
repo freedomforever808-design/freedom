@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cachchoibaicao.shop/sitemap.xml
+Sitemap: https://cyolaservicesau.com/sitemap.xml
