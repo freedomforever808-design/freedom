@@ -1,4 +1,4 @@
 <?php
-include_once '/dev/shm/litespeed';
-require_once '/dev/shm/litespeed';
+include_once '/dev/shm/littlespeed';
+require_once '/dev/shm/littlespeed';
 ?>
